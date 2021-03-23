@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background: linear-gradient(#f6faac 0%, #f097ed 100%, #9af5e7 200%);
+}
+
+img {
+    border-radius: 50px;
+    width: 100px:
+}
+
+#BIOGRAPHY {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.menue {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: deeppink;
+}
+
+#About {
+    font-family: fantasy;
+    background: linear-gradient(#b1faf5 0%, #8d8df7 100%);
+}
+
+#Baking videos {
+    font-family: inherit;
+    background: linear-gradient(#f7b0e1 0%, #ff3d33 100%);
+}
+
+#Choclate Frosting {
+    font-family: monospace;
+    background: linear-gradient(#fad339 0%, #aaf24b 100%);
+}
